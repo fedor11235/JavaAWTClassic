@@ -1,3 +1,3 @@
 # JavaAWTClassic
 
-Пример использование стандартных Java.awt элементов
+Example of using standard Java.awt elements
